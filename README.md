@@ -1,2 +1,2 @@
 # sirius
-PHP script for url cloaking
+PHP script for URL cloaking
